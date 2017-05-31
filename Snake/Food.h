@@ -16,4 +16,4 @@ public:
 protected:
 	int x;
 	int y;
-};   
+};
